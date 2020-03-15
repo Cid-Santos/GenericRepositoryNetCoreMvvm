@@ -1,0 +1,8 @@
+C:\Users\ti1\source\repos\MvvmApp\MvvmFramework\bin\Debug\netcoreapp3.1\MvvmFramework.deps.json
+C:\Users\ti1\source\repos\MvvmApp\MvvmFramework\bin\Debug\netcoreapp3.1\MvvmFramework.dll
+C:\Users\ti1\source\repos\MvvmApp\MvvmFramework\bin\Debug\netcoreapp3.1\MvvmFramework.pdb
+C:\Users\ti1\source\repos\MvvmApp\MvvmFramework\obj\Debug\netcoreapp3.1\MvvmFramework.csprojAssemblyReference.cache
+C:\Users\ti1\source\repos\MvvmApp\MvvmFramework\obj\Debug\netcoreapp3.1\MvvmFramework.AssemblyInfoInputs.cache
+C:\Users\ti1\source\repos\MvvmApp\MvvmFramework\obj\Debug\netcoreapp3.1\MvvmFramework.AssemblyInfo.cs
+C:\Users\ti1\source\repos\MvvmApp\MvvmFramework\obj\Debug\netcoreapp3.1\MvvmFramework.dll
+C:\Users\ti1\source\repos\MvvmApp\MvvmFramework\obj\Debug\netcoreapp3.1\MvvmFramework.pdb
