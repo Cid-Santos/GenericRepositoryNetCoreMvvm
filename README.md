@@ -5,7 +5,7 @@
 Nesta sessão, aprenderemos sobre:
 Repositório genérico para SQLite em .Net Core com estrutura MVVM.
 
-###### Repositório Genérico:
+#### Repositório Genérico:
 A vantagem do repositório genérico esta no padrão do repositório que cria uma camada abstrata entre a Camada de Acesso a Dados e a Camada de Serviço de um aplicativo. Um Repositório Genérico é composto por classes, interfaces ou métodos que possuem valores de espaço reservado para o parâmetro de tipo de dados a ser utilizados, em vez de especificá-lo implicitamente.
 
 ###### Programação Assíncrona:
