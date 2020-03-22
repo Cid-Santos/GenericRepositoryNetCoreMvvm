@@ -11,3 +11,16 @@ C:\Users\ti1\source\repos\MvvmApp\DataAcess\bin\Debug\netcoreapp3.1\MvvmFramewor
 C:\Users\ti1\source\repos\MvvmApp\DataAcess\obj\Debug\netcoreapp3.1\DataAcess.csproj.CopyComplete
 C:\Users\ti1\source\repos\MvvmApp\DataAcess\obj\Debug\netcoreapp3.1\DataAcess.dll
 C:\Users\ti1\source\repos\MvvmApp\DataAcess\obj\Debug\netcoreapp3.1\DataAcess.pdb
+C:\Users\ti1\source\repos\GenericRepositoryNetCoreMvvm\DataAcess\bin\Debug\netcoreapp3.1\DataAcess.deps.json
+C:\Users\ti1\source\repos\GenericRepositoryNetCoreMvvm\DataAcess\bin\Debug\netcoreapp3.1\DataAcess.dll
+C:\Users\ti1\source\repos\GenericRepositoryNetCoreMvvm\DataAcess\bin\Debug\netcoreapp3.1\DataAcess.pdb
+C:\Users\ti1\source\repos\GenericRepositoryNetCoreMvvm\DataAcess\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\ti1\source\repos\GenericRepositoryNetCoreMvvm\DataAcess\bin\Debug\netcoreapp3.1\MvvmFramework.dll
+C:\Users\ti1\source\repos\GenericRepositoryNetCoreMvvm\DataAcess\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\ti1\source\repos\GenericRepositoryNetCoreMvvm\DataAcess\bin\Debug\netcoreapp3.1\MvvmFramework.pdb
+C:\Users\ti1\source\repos\GenericRepositoryNetCoreMvvm\DataAcess\obj\Debug\netcoreapp3.1\DataAcess.csprojAssemblyReference.cache
+C:\Users\ti1\source\repos\GenericRepositoryNetCoreMvvm\DataAcess\obj\Debug\netcoreapp3.1\DataAcess.AssemblyInfoInputs.cache
+C:\Users\ti1\source\repos\GenericRepositoryNetCoreMvvm\DataAcess\obj\Debug\netcoreapp3.1\DataAcess.AssemblyInfo.cs
+C:\Users\ti1\source\repos\GenericRepositoryNetCoreMvvm\DataAcess\obj\Debug\netcoreapp3.1\DataAcess.csproj.CopyComplete
+C:\Users\ti1\source\repos\GenericRepositoryNetCoreMvvm\DataAcess\obj\Debug\netcoreapp3.1\DataAcess.dll
+C:\Users\ti1\source\repos\GenericRepositoryNetCoreMvvm\DataAcess\obj\Debug\netcoreapp3.1\DataAcess.pdb
