@@ -4,10 +4,30 @@ namespace Models
 {
     public class Product
     {
-        [PrimaryKey, AutoIncrement]
-        public int ProductId { get; set; }
-        [MaxLength(150)]
-        public string Descricao { get; set; }
-        public decimal Preco { get; set; }
+        #region Atributos da classe product
+        private int prodId;
+        private string prodDescricao;
+        private decimal prodPreco;
+        #endregion
+
+        #region Métodos da classe product 
+        public int ProdId
+        {
+            get { return prodId; }
+            set { prodId = value; }
+        }
+
+        public string ProdDescricao
+        {
+            get { return prodDescricao; }
+            set { prodDescricao = value; }
+        }
+
+        public decimal ProdPreco
+        {
+            get { return prodPreco; }
+            set { prodPreco = value; }
+        }
+        #endregion
     }
 }

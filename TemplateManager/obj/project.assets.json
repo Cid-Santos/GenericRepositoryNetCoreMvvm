@@ -1344,7 +1344,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "MvvmFramework": "1.0.0",
           "sqlite-net-pcl": "1.6.292"
         },
         "compile": {
@@ -1352,19 +1351,6 @@
         },
         "runtime": {
           "bin/placeholder/Models.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.WindowsDesktop.App.WPF"
-        ]
-      },
-      "MvvmFramework/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/MvvmFramework.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MvvmFramework.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.WindowsDesktop.App.WPF"
@@ -4737,11 +4723,6 @@
       "type": "project",
       "path": "../Models/Models.csproj",
       "msbuildProject": "../Models/Models.csproj"
-    },
-    "MvvmFramework/1.0.0": {
-      "type": "project",
-      "path": "../MvvmFramework/MvvmFramework.csproj",
-      "msbuildProject": "../MvvmFramework/MvvmFramework.csproj"
     }
   },
   "projectFileDependencyGroups": {

@@ -1,64 +1,49 @@
-﻿using MvvmFramework;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 using System.Xml.Serialization;
 
-namespace Models {
-    [XmlRoot]
-    public class Person : Validatable {
-        private int id;
-        private string firstName;
-        private string lastName;
-        private int age;
-        private string emailAddress;
+namespace Models
+{
 
-        [XmlAttribute]
-        [Required]
-        public int Id {
-            get { return id; }
-            set {
-                id = value; 
-                OnPropertyChanged();
-            }
+    public class Person
+    {
+        #region Atributos da classe person
+        private int persId;
+        private string persFirstName;
+        private string persLastName;
+        private int persAge;
+        private string persEmail;
+        #endregion
+
+        #region Métodos da classe person
+        public int PersId
+        {
+            get { return persId; }
+            set { persId = value; }
         }
 
-        [XmlAttribute]
-        [Required]
-        public string FirstName {
-            get { return firstName; }
-            set {
-                firstName = value; 
-                OnPropertyChanged();
-            }
+        public string PersFirstName
+        {
+            get { return persFirstName; }
+            set { persFirstName = value; }
         }
 
-        [XmlAttribute]
-        [Required]
-        public string LastName {
-            get { return lastName; }
-            set {
-                lastName = value; 
-                OnPropertyChanged();
-            }
+        public string PersLastName
+        {
+            get { return persLastName; }
+            set { persLastName = value; }
         }
 
-        [XmlAttribute]
-        [Required]
-        public int Age {
-            get { return age; }
-            set {
-                age = value; 
-                OnPropertyChanged();
-            }
+        public int PersAge
+        {
+            get { return persAge; }
+            set { persAge = value; }
         }
 
-        [XmlAttribute]
-        [EmailAddress]
-        public string EmailAddress {
-            get { return emailAddress; }
-            set {
-                emailAddress = value; 
-                OnPropertyChanged();
-            }
+        public string PersEmail
+        {
+            get { return persEmail; }
+            set { persEmail = value; }
         }
+        #endregion
     }
 }

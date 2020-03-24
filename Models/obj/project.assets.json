@@ -1322,19 +1322,6 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
-      },
-      "MvvmFramework/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/MvvmFramework.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MvvmFramework.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.WindowsDesktop.App.WPF"
-        ]
       }
     }
   },
@@ -4693,16 +4680,10 @@
         "ref/xamarintvos10/_._",
         "ref/xamarinwatchos10/_._"
       ]
-    },
-    "MvvmFramework/1.0.0": {
-      "type": "project",
-      "path": "../MvvmFramework/MvvmFramework.csproj",
-      "msbuildProject": "../MvvmFramework/MvvmFramework.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "MvvmFramework >= 1.0.0",
       "sqlite-net-pcl >= 1.6.292"
     ]
   },
@@ -4735,11 +4716,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {
-            "C:\\Users\\ti1\\source\\repos\\GenericRepositoryNetCoreMvvm\\MvvmFramework\\MvvmFramework.csproj": {
-              "projectPath": "C:\\Users\\ti1\\source\\repos\\GenericRepositoryNetCoreMvvm\\MvvmFramework\\MvvmFramework.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

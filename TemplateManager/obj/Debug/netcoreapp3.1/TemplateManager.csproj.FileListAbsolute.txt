@@ -62,10 +62,8 @@ C:\Users\ti1\source\repos\GenericRepositoryNetCoreMvvm\TemplateManager\bin\Debug
 C:\Users\ti1\source\repos\GenericRepositoryNetCoreMvvm\TemplateManager\bin\Debug\netcoreapp3.1\runtimes\win8-arm\native\e_sqlite3.dll
 C:\Users\ti1\source\repos\GenericRepositoryNetCoreMvvm\TemplateManager\bin\Debug\netcoreapp3.1\DataAcess.dll
 C:\Users\ti1\source\repos\GenericRepositoryNetCoreMvvm\TemplateManager\bin\Debug\netcoreapp3.1\Models.dll
-C:\Users\ti1\source\repos\GenericRepositoryNetCoreMvvm\TemplateManager\bin\Debug\netcoreapp3.1\MvvmFramework.dll
 C:\Users\ti1\source\repos\GenericRepositoryNetCoreMvvm\TemplateManager\bin\Debug\netcoreapp3.1\DataAcess.pdb
 C:\Users\ti1\source\repos\GenericRepositoryNetCoreMvvm\TemplateManager\bin\Debug\netcoreapp3.1\Models.pdb
-C:\Users\ti1\source\repos\GenericRepositoryNetCoreMvvm\TemplateManager\bin\Debug\netcoreapp3.1\MvvmFramework.pdb
 C:\Users\ti1\source\repos\GenericRepositoryNetCoreMvvm\TemplateManager\obj\Debug\netcoreapp3.1\TemplateManager.csprojAssemblyReference.cache
 C:\Users\ti1\source\repos\GenericRepositoryNetCoreMvvm\TemplateManager\obj\Debug\netcoreapp3.1\MainWindow.g.cs
 C:\Users\ti1\source\repos\GenericRepositoryNetCoreMvvm\TemplateManager\obj\Debug\netcoreapp3.1\App.g.cs

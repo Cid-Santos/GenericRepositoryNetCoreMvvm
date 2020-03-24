@@ -812,16 +812,10 @@
       },
       "Models/1.0.0": {
         "dependencies": {
-          "MvvmFramework": "1.0.0",
           "sqlite-net-pcl": "1.6.292"
         },
         "runtime": {
           "Models.dll": {}
-        }
-      },
-      "MvvmFramework/1.0.0": {
-        "runtime": {
-          "MvvmFramework.dll": {}
         }
       }
     }
@@ -1398,11 +1392,6 @@
       "sha512": ""
     },
     "Models/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "MvvmFramework/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
